@@ -7,7 +7,7 @@ I'm Javier Espinoza, a student at Brigham Young University-Idaho interested in c
 
 ## About Me
 
-- I'm currently learning .Net, Android, TypeScript
+- I'm currently learning .Net, Android, TypeScript and React.
 - My goals are to become a Senior Developer
 - Ask me about how to develop sofwtware, webapp and websites for you.
 
