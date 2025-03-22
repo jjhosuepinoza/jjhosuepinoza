@@ -18,7 +18,7 @@ I'm Javier Espinoza, a student at Brigham Young University-Idaho interested in c
 
 ## Let's Connect!
 
-- Here is my LinkedIn https://www.linkedin.com/in/javier-espinoza-yung%C3%A1n/ profile
+- Here is my LinkedIn https://www.linkedin.com/in/javier-ec/
 - Here is my portfolio https://quitus.co/projects
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
