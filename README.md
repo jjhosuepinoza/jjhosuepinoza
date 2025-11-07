@@ -9,7 +9,7 @@ I'm Javier Espinoza, a software developer interested in computer science, data s
 
 - I'm currently learning .Net, Android, TypeScript and React.
 - My goals are to become a Senior Developer
-- Ask me about how to develop sofwtware, webapp and websites for you.
+- Ask me about how to develop software, webapps and websites for you.
 
 ## Technologies and Tools
 
