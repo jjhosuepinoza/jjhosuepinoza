@@ -19,6 +19,6 @@ I'm Javier Espinoza, a software developer interested in computer science, data s
 ## Let's Connect!
 
 - Here is my LinkedIn https://www.linkedin.com/in/javier-ec/
-- Here is my portfolio https://quitus.co/projects
+- Here is my portfolio https://jjhosuepinoza.github.io/portfolio/projects
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
