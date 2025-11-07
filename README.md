@@ -3,7 +3,7 @@
 
 Hello, GitHub! 👋
 
-I'm Javier Espinoza, a student at Brigham Young University-Idaho interested in computer science, data science, web development, and machine learning. Welcome to my GitHub profile!
+I'm Javier Espinoza, a software developer interested in computer science, data science, web development, and machine learning. Welcome to my GitHub profile!
 
 ## About Me
 
